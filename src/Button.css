@@ -1,0 +1,13 @@
+.btn {
+  margin: 6% 2%;
+  padding: 5px;
+  width: 10%;
+  font-size: 3em;
+  background-color: gray;
+  border-radius: 20px;
+  color: aliceblue;
+}
+
+.btn:hover {
+  background-color: lightslategray;
+}

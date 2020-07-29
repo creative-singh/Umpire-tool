@@ -1,0 +1,15 @@
+.main-div {
+  /* margin: auto; */
+  text-align: center;
+}
+
+label {
+  margin: 10%;
+  background-color: gray;
+  color: aliceblue;
+  text-align: center;
+  width: 30%;
+  padding: 30px 20%;
+  font-size: 3em;
+  border-radius: 20px;
+}
