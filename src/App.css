@@ -1,15 +1,22 @@
 .main-div {
-  /* margin: auto; */
-  text-align: center;
+  height: 85vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-label {
-  margin: 10%;
+.Label {
+  color: #d6ff33;
+  margin: 40px;
+  padding-bottom: 30px;
+  font-size: 2em;
+}
+
+.counter {
   background-color: gray;
-  color: aliceblue;
-  text-align: center;
-  width: 30%;
-  padding: 30px 20%;
-  font-size: 3em;
-  border-radius: 20px;
+  color: #d6ff33;
+  padding: 5px 50px;
+  font-size: 4em;
+  border-radius: 10px;
+  margin: 10px;
 }

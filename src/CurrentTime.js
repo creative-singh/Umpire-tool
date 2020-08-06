@@ -16,7 +16,7 @@ const CurrentTime = () => {
   return (
     <div className="position">
       <header className="pos">
-        <h1>{ctime}</h1>
+        <p>{ctime}</p>
       </header>
     </div>
   );
