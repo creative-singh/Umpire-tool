@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/My-First-React-App/static/css/main.42a8c389.chunk.css",
-    "main.js": "/My-First-React-App/static/js/main.5ea93f22.chunk.js",
-    "main.js.map": "/My-First-React-App/static/js/main.5ea93f22.chunk.js.map",
-    "runtime-main.js": "/My-First-React-App/static/js/runtime-main.dcc2dc26.js",
-    "runtime-main.js.map": "/My-First-React-App/static/js/runtime-main.dcc2dc26.js.map",
-    "static/js/2.c12fcc64.chunk.js": "/My-First-React-App/static/js/2.c12fcc64.chunk.js",
-    "static/js/2.c12fcc64.chunk.js.map": "/My-First-React-App/static/js/2.c12fcc64.chunk.js.map",
-    "index.html": "/My-First-React-App/index.html",
-    "precache-manifest.2fa24ff890d0681ca4b9c903ecbb1a37.js": "/My-First-React-App/precache-manifest.2fa24ff890d0681ca4b9c903ecbb1a37.js",
-    "service-worker.js": "/My-First-React-App/service-worker.js",
-    "static/css/main.42a8c389.chunk.css.map": "/My-First-React-App/static/css/main.42a8c389.chunk.css.map",
-    "static/js/2.c12fcc64.chunk.js.LICENSE.txt": "/My-First-React-App/static/js/2.c12fcc64.chunk.js.LICENSE.txt"
+    "main.css": "/Umpire-tool/static/css/main.42a8c389.chunk.css",
+    "main.js": "/Umpire-tool/static/js/main.5ea93f22.chunk.js",
+    "main.js.map": "/Umpire-tool/static/js/main.5ea93f22.chunk.js.map",
+    "runtime-main.js": "/Umpire-tool/static/js/runtime-main.853dd5e7.js",
+    "runtime-main.js.map": "/Umpire-tool/static/js/runtime-main.853dd5e7.js.map",
+    "static/js/2.c12fcc64.chunk.js": "/Umpire-tool/static/js/2.c12fcc64.chunk.js",
+    "static/js/2.c12fcc64.chunk.js.map": "/Umpire-tool/static/js/2.c12fcc64.chunk.js.map",
+    "index.html": "/Umpire-tool/index.html",
+    "precache-manifest.f4a87cc176bd42100d5affdb1a1fb6cb.js": "/Umpire-tool/precache-manifest.f4a87cc176bd42100d5affdb1a1fb6cb.js",
+    "service-worker.js": "/Umpire-tool/service-worker.js",
+    "static/css/main.42a8c389.chunk.css.map": "/Umpire-tool/static/css/main.42a8c389.chunk.css.map",
+    "static/js/2.c12fcc64.chunk.js.LICENSE.txt": "/Umpire-tool/static/js/2.c12fcc64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dcc2dc26.js",
+    "static/js/runtime-main.853dd5e7.js",
     "static/js/2.c12fcc64.chunk.js",
     "static/css/main.42a8c389.chunk.css",
     "static/js/main.5ea93f22.chunk.js"
