@@ -54,7 +54,6 @@ class App extends Component {
               title={"-"}
               clickable={this.MinusOperation}
             />
-            {/* <Button title={'0'} clickable={this.ResetOperation} /> */}
             <Button
               title={"+"}
               clickable={this.PlusOperation}
