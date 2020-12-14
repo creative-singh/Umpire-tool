@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import './CurrentTime.css';
+import React, { useState } from "react";
+import "./CurrentTime.css";
 
 const CurrentTime = () => {
   let time = new Date().toLocaleTimeString();
