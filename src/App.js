@@ -36,12 +36,6 @@ class App extends Component {
     }
   };
 
-  // ResetOperation = () => {
-  //   this.setState({
-  //     value: 0
-  //   });
-  // };
-
   render() {
     return (
       <div className="main-div">
